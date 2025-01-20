@@ -48,7 +48,7 @@ Installation and Starting the application  :
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/manojkumarreddy2004/user-management-app.git 
-   cd react-user-management  
+   cd user-management-app  
 2. Install dependencies:
     ```bash
     npm install
