@@ -23,7 +23,7 @@ Features :
         3. Phone  
         4. Company Name  
         5. Website  
-    Includes a **Go Back** button for easy navigation to the home page.  
+    Includes a Go Back button for easy navigation to the home page.  
 
 3. Additional Features  
     3.1. State Management: Implemented using React Context API.  
@@ -39,18 +39,20 @@ Features :
     4.3. Vite: Fast and efficient development environment.  
     4.4. CSS and Material-UI: Styling for responsiveness and theme.  
 
----
+5. Prerequisites  
+    - Node.js (v14 or above).  
+    - npm or yarn installed on your system.  
 
-## Setup  
-
-### Prerequisites  
-- Node.js (v14 or above).  
-- npm or yarn installed on your system.  
-
-### Installation  
+Installation and Starting the application  : 
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/react-user-management.git  
+   git clone https://github.com/manojkumarreddy2004/user-management-app.git 
    cd react-user-management  
-
+2. Install dependencies:
+    ```bash
+    npm install
+3. Start the application:
+    ```bash
+    npm run dev
+4. Open your browser and navigate to http://localhost:5173 to view the application.
